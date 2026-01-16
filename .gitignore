@@ -1,0 +1,13 @@
+# OS / user files
+*.log
+.DS_Store
+
+# Node / Python (safe even if unused)
+node_modules/
+__pycache__/
+
+# Secrets
+.env
+
+# Server-only files
+var/
